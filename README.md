@@ -12,6 +12,9 @@
 <ul>
 	<li><a href="#Sobre">Sobre</li>
 		<li><a href="#Tecnologias">Tecnologias</li>
+				<li><a href="#Status">Status</li>
+						<li><a href="#Utilização">Como Utilizar</li>
+								<li><a href="#autor">Autor</li>
 </ul>
 
 
@@ -21,3 +24,14 @@
 	<li>HTML</li>
 	<li>JavaScript</li>
 </ul>
+
+<h3 id="Status">Status</h3>
+<p>Projeto já finalizado. Feito em aproximadas 2 horas. Qualquer alteração feita, será correção de bugs etc.</p>
+
+<h3 id="Utilização">Como utilizar</h3>
+<p>Basta abrir  o arquivo main.js em algum interpretador JavaScript, e rodá-lo!</p>
+
+
+<h2 id="autor">Autor
+</h2>
+Jackson Guilherme.
